@@ -15,10 +15,10 @@ Positive attitude - Proactive - Communicative - Easy learner - Team working - Le
 
 You can contact me via email:
 
-📫 abellagarciamiquel@gmail.com
+📫 danielvillenawilson@gmail.com
 
 Linkedin profile:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquel-abella-garcia-b64268217/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jes%C3%BAs-villena-wilson/)
 
 <div align="center">
 
