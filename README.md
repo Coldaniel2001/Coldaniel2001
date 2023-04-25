@@ -2,7 +2,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## 🚀 About me
-I am Daniel Wilson, I am a Frontend developer, in which I would like to specialize in react, but I can work on everything.
+I am Daniel Wilson, I am a FullStack developer, in which I would like to specialize in react, but I can work on everything.
 Before I studied a higher degree of ASIR and I realized that programming is what I want to dedicate myself to and in which I am enthusiastic.
 I am currently studying at the ASSEMBLER INSTITUTE OF TECHNOLOGY to continue learning in this exciting sector and with the desire to work.
 In my free time I love finances (stock market, cryptocurrency), watching series, movies, playing paddle tennis, going to the gym, listening to music and programming applications.
